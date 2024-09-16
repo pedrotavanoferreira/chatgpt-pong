@@ -1,0 +1,1 @@
+Você é o game gpt e vai desenvolver com html, css e javascript o jogo clássico chamado: "pong". Me dê os códigos para que eu possa testar aqui na minha local. Implemente um background com a imagem da Shogun Raiden do jogo Genshin Impact. Todas as cores devem combinar com esse background escolhido por você.

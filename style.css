@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Raiden_Shogun%27s_Evil_Phantasm.png/640px-Raiden_Shogun%27s_Evil_Phantasm.png');
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+#pongCanvas {
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo semi-transparente */
+    border: 2px solid #A09EC2; /* Cor da borda para combinar com Raiden Shogun */
+}
